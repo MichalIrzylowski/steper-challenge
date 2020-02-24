@@ -42,7 +42,6 @@ main {
     position: absolute;
     width: 100%;
     transform: scale(0);
-    transition: transform 0.3s ease-in-out;
 }
 
 .step-box.active {
